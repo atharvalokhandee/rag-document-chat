@@ -1,0 +1,14 @@
+# Ignore virtual environments
+venv/
+myenv/
+*/venv/
+*/myenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.log
+*.mp3
